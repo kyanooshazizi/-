@@ -139,7 +139,7 @@ export default function App({ Component, pageProps }) {
 
         <p className="copyright">
           &copy; حقوق مادی معنوی این سایت برای
-          <strong className="copyright__name">مهدی ایلخانی نسب</strong>
+          <strong className="copyright__name">املاک رویش</strong>
           محفوظ میباشد
         </p>
       </footer>
